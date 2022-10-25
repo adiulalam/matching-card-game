@@ -1,0 +1,54 @@
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework\obj\Debug\coursework.csprojAssemblyReference.cache
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework\obj\Debug\coursework.GameWindow.resources
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework\obj\Debug\coursework.Properties.Resources.resources
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework\obj\Debug\coursework.csproj.GenerateResource.cache
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework\bin\Debug\coursework.exe.config
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework\bin\Debug\coursework.exe
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework\bin\Debug\coursework.pdb
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework\obj\Debug\coursework.exe
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework\obj\Debug\coursework.pdb
+C:\Users\Adiul Alam\Downloads\coursework\bin\Debug\coursework.exe.config
+C:\Users\Adiul Alam\Downloads\coursework\bin\Debug\coursework.exe
+C:\Users\Adiul Alam\Downloads\coursework\bin\Debug\coursework.pdb
+C:\Users\Adiul Alam\Downloads\coursework\obj\Debug\coursework.GameWindow.resources
+C:\Users\Adiul Alam\Downloads\coursework\obj\Debug\coursework.Properties.Resources.resources
+C:\Users\Adiul Alam\Downloads\coursework\obj\Debug\coursework.csproj.GenerateResource.cache
+C:\Users\Adiul Alam\Downloads\coursework\obj\Debug\coursework.exe
+C:\Users\Adiul Alam\Downloads\coursework\obj\Debug\coursework.pdb
+C:\Users\Adiul Alam\Downloads\coursework\obj\Debug\coursework.csprojAssemblyReference.cache
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework - Copy\bin\Debug\coursework.exe.config
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework - Copy\bin\Debug\coursework.exe
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework - Copy\bin\Debug\coursework.pdb
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework - Copy\obj\Debug\coursework.csprojAssemblyReference.cache
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework - Copy\obj\Debug\coursework.GameWindow.resources
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework - Copy\obj\Debug\coursework.Properties.Resources.resources
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework - Copy\obj\Debug\coursework.csproj.GenerateResource.cache
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework - Copy\obj\Debug\coursework.exe
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework - Copy\obj\Debug\coursework.pdb
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.5\bin\Debug\coursework.exe.config
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.5\bin\Debug\coursework.exe
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.5\bin\Debug\coursework.pdb
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.5\obj\Debug\coursework.csprojAssemblyReference.cache
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.5\obj\Debug\coursework.GameWindow.resources
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.5\obj\Debug\coursework.Properties.Resources.resources
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.5\obj\Debug\coursework.csproj.GenerateResource.cache
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.5\obj\Debug\coursework.exe
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.5\obj\Debug\coursework.pdb
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\bin\Debug\coursework.exe.config
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\bin\Debug\coursework.exe
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\bin\Debug\coursework.pdb
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\obj\Debug\coursework.csprojAssemblyReference.cache
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\obj\Debug\coursework.GameWindow.resources
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\obj\Debug\coursework.Properties.Resources.resources
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\obj\Debug\coursework.csproj.GenerateResource.cache
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\obj\Debug\coursework.exe
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\obj\Debug\coursework.pdb
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\bin\Debug\Interop.WMPLib.dll
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\obj\Debug\Interop.WMPLib.dll
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\obj\Debug\coursework.csproj.ResolveComReference.cache
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\bin\Debug\coursework.exe.manifest
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\bin\Debug\coursework.application
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\obj\Debug\coursework.exe.manifest
+C:\Users\Adiul Alam\OneDrive\Documents\..COMP1551 - C#\Coursework\coursework.6\obj\Debug\coursework.application
